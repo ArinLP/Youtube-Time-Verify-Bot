@@ -1,8 +1,8 @@
-# YouTube Subscriber Verifier 🎥✔️
+# YouTube Subscriber Verifier with Delay 🎥✔️
 
 ## Description
 
-The **YouTube Subscriber Verifier** is a Discord bot designed to verify if users have subscribed to a specified YouTube channel. It analyzes images uploaded by users to check for text that matches the channel's name or specific keywords. If a match is found, it grants a role to the user in the Discord server. The bot also supports saving subscriber data for record-keeping. 📜
+The **YouTube Subscriber Verifier with Delay** is a Discord bot designed to verify if users have subscribed to a specified YouTube channel. It analyzes images uploaded by users to check for text that matches the channel's name or specific keywords. If a match is found, it grants a role to the user in the Discord server. The bot also supports saving subscriber data for record-keeping. 📜
 
 ## Features ✨
 
